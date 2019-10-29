@@ -1,0 +1,23 @@
+{
+  "name": "around-spaces-css",
+  "version": "1.0.0",
+  "description": "CSS version of around spaces",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marwinburesch/around-spaces-css.git"
+  },
+  "author": "Marwin and Leon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marwinburesch/around-spaces-css/issues"
+  },
+  "homepage": "https://github.com/marwinburesch/around-spaces-css#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
