@@ -21,3 +21,7 @@ Build for production
 ```
 npm run build
 ```
+
+## Author
+
+Marwin Buresch and Leon Machens
